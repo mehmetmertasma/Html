@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Personal Webpage</title>
+</head>
+<body>
+  <h1>Welcome to My Webpage</h1>
+  <p>Hello! My name is Mert, and this is my personal webpage for CSC-IV.</p>
+
+  <!-- Hyperlink to your favorite website -->
+  <p>One of my favorite websites is 
+    <a href="https://www.spotify.com" target="_blank">Spotify</a>. 
+    I love listening to music while working!
+  </p>
+
+  <!-- Image with alt attribute -->
+  <h2>My Hobby</h2>
+  <p>One of my favorite hobbies is playing volleyball.</p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Volleyball_(Indoor).jpg" alt="A volleyball game in action" width="400">
+
+  <!-- Class Schedule Table -->
+  <h2>My Class Schedule</h2>
+  <table border="1">
+    <tr>
+      <th>Class Name</th>
+      <th>Class Day/Time</th>
+      <th>Class Description</th>
+    </tr>
+    <tr>
+      <td>Web Development</td>
+      <td>Mon/Wed 10:00 AM</td>
+      <td>Learning how to build websites with HTML and CSS.</td>
+    </tr>
+    <tr>
+      <td>Data Structures</td>
+      <td>Tue/Thu 2:00 PM</td>
+      <td>Understanding how data is organized and managed.</td>
+    </tr>
+    <tr>
+      <td>Business Law</td>
+      <td>Fri 11:00 AM</td>
+      <td>Exploring legal principles in business settings.</td>
+    </tr>
+  </table>
+
+  <p>Thanks for visiting my webpage!</p>
+</body>
+</html>
